@@ -1,0 +1,27 @@
+#div1{
+height: 250px;
+ width: 300px;
+ background-color: pink;
+margin: 10px;
+padding: 30px;
+border: 1px solid black;
+float: left;
+}
+#div2 {
+    height: 250px;
+    width: 300px;
+    background-color: greenyellow;
+    margin: 10px;
+    padding: 30px;
+    border: 1px solid black;
+    float: left;
+}
+#div3 {
+    height: 250px;
+    width: 300px;
+    background-color: purple;
+    margin: 10px;
+    padding: 30px;
+    border: 1px solid black;
+    float: left;
+}
